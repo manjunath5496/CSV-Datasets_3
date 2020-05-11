@@ -1,0 +1,901 @@
+year,Industry_code,Industry_desc,Environmental_base,National_accounts_var,units,magnitude,source,data_value,flag
+1999,,,,GST on production,Dollars,Millions,National Accounts,6840,F
+1999,,,,Import duties,Dollars,Millions,National Accounts,510,F
+1999,,,,Income tax received,Dollars,Millions,National Accounts,19670,F
+1999,,,,Other current taxes,Dollars,Millions,National Accounts,479,F
+1999,,,,Social security contributions,Dollars,Millions,National Accounts,1799,F
+1999,,,,Taxes on production,Dollars,Millions,National Accounts,6167,R
+1999,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,35465,R
+1999,,,Energy,,Dollars,Millions,Environmental Accounts,856,F
+1999,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+1999,,,Resources,,Dollars,Millions,Environmental Accounts,138,F
+1999,,,Transport,,Dollars,Millions,Environmental Accounts,637,F
+1999,,Total,Total,,Dollars,Millions,Environmental Accounts,1631,F
+1999,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,4,F
+1999,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,6,F
+1999,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,F
+1999,BB1,Mining,,,Dollars,Millions,Environmental Accounts,86,F
+1999,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,47,F
+1999,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,F
+1999,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+1999,CC4,Printing,,,Dollars,Millions,Environmental Accounts,1,F
+1999,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,798,F
+1999,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,13,F
+1999,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,4,F
+1999,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,F
+1999,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,F
+1999,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,16,F
+1999,EE1,Construction,,,Dollars,Millions,Environmental Accounts,80,F
+1999,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,31,F
+1999,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,19,F
+1999,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,10,F
+1999,HHD,Households,,,Dollars,Millions,Environmental Accounts,119,F
+1999,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,254,F
+1999,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,3,F
+1999,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,20,F
+1999,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,46,F
+1999,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+1999,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,16,F
+1999,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,4,F
+1999,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+1999,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,1,F
+1999,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,2,F
+1999,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,6,F
+1999,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,9,F
+1999,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,5,F
+1999,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,10,F
+2000,,,,GST on production,Dollars,Millions,National Accounts,7312,F
+2000,,,,Import duties,Dollars,Millions,National Accounts,612,F
+2000,,,,Income tax received,Dollars,Millions,National Accounts,20221,F
+2000,,,,Other current taxes,Dollars,Millions,National Accounts,483,F
+2000,,,,Social security contributions,Dollars,Millions,National Accounts,1445,F
+2000,,,,Taxes on production,Dollars,Millions,National Accounts,6394,R
+2000,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,36467,R
+2000,,,Energy,,Dollars,Millions,Environmental Accounts,811,F
+2000,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2000,,,Resources,,Dollars,Millions,Environmental Accounts,135,F
+2000,,,Transport,,Dollars,Millions,Environmental Accounts,668,F
+2000,,Total,Total,,Dollars,Millions,Environmental Accounts,1614,F
+2000,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,4,F
+2000,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,7,F
+2000,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,F
+2000,BB1,Mining,,,Dollars,Millions,Environmental Accounts,93,F
+2000,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,49,F
+2000,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,F
+2000,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2000,CC4,Printing,,,Dollars,Millions,Environmental Accounts,1,F
+2000,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,751,F
+2000,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,14,F
+2000,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,4,F
+2000,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,F
+2000,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,F
+2000,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,17,F
+2000,EE1,Construction,,,Dollars,Millions,Environmental Accounts,85,F
+2000,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,33,F
+2000,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,19,F
+2000,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,10,F
+2000,HHD,Households,,,Dollars,Millions,Environmental Accounts,117,F
+2000,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,272,F
+2000,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,3,F
+2000,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,16,F
+2000,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,45,F
+2000,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2000,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,14,F
+2000,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,4,F
+2000,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2000,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,1,F
+2000,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,2,F
+2000,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,6,F
+2000,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,9,F
+2000,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,5,F
+2000,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,10,F
+2001,,,,GST on production,Dollars,Millions,National Accounts,7571,F
+2001,,,,Import duties,Dollars,Millions,National Accounts,633,F
+2001,,,,Income tax received,Dollars,Millions,National Accounts,22644,F
+2001,,,,Other current taxes,Dollars,Millions,National Accounts,479,F
+2001,,,,Social security contributions,Dollars,Millions,National Accounts,1146,F
+2001,,,,Taxes on production,Dollars,Millions,National Accounts,6579,R
+2001,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,39052,R
+2001,,,Energy,,Dollars,Millions,Environmental Accounts,804,F
+2001,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2001,,,Resources,,Dollars,Millions,Environmental Accounts,143,F
+2001,,,Transport,,Dollars,Millions,Environmental Accounts,700,F
+2001,,Total,Total,,Dollars,Millions,Environmental Accounts,1647,F
+2001,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,4,F
+2001,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,7,F
+2001,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,F
+2001,BB1,Mining,,,Dollars,Millions,Environmental Accounts,99,F
+2001,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,51,F
+2001,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,F
+2001,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2001,CC4,Printing,,,Dollars,Millions,Environmental Accounts,1,F
+2001,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,748,F
+2001,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,14,F
+2001,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,5,F
+2001,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,F
+2001,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,F
+2001,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,17,F
+2001,EE1,Construction,,,Dollars,Millions,Environmental Accounts,90,F
+2001,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,34,F
+2001,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,20,F
+2001,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,10,F
+2001,HHD,Households,,,Dollars,Millions,Environmental Accounts,121,F
+2001,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,286,F
+2001,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,3,F
+2001,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,16,F
+2001,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,45,F
+2001,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2001,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,14,F
+2001,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,5,F
+2001,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2001,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2001,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,2,F
+2001,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,6,F
+2001,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,9,F
+2001,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,5,F
+2001,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,11,F
+2002,,,,GST on production,Dollars,Millions,National Accounts,8097,F
+2002,,,,Import duties,Dollars,Millions,National Accounts,643,F
+2002,,,,Income tax received,Dollars,Millions,National Accounts,23450,F
+2002,,,,Other current taxes,Dollars,Millions,National Accounts,483,F
+2002,,,,Social security contributions,Dollars,Millions,National Accounts,1292,F
+2002,,,,Taxes on production,Dollars,Millions,National Accounts,6809,R
+2002,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,40774,R
+2002,,,Energy,,Dollars,Millions,Environmental Accounts,836,F
+2002,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2002,,,Resources,,Dollars,Millions,Environmental Accounts,145,F
+2002,,,Transport,,Dollars,Millions,Environmental Accounts,1105,F
+2002,,Total,Total,,Dollars,Millions,Environmental Accounts,2086,F
+2002,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,8,F
+2002,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,11,F
+2002,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,F
+2002,BB1,Mining,,,Dollars,Millions,Environmental Accounts,99,F
+2002,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,60,F
+2002,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2002,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,5,F
+2002,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2002,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,777,F
+2002,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,16,F
+2002,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,6,F
+2002,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,F
+2002,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,F
+2002,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,25,F
+2002,EE1,Construction,,,Dollars,Millions,Environmental Accounts,102,F
+2002,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,43,F
+2002,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,33,F
+2002,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,19,F
+2002,HHD,Households,,,Dollars,Millions,Environmental Accounts,357,F
+2002,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,318,F
+2002,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,5,F
+2002,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,21,F
+2002,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,77,F
+2002,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2002,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,18,F
+2002,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,6,F
+2002,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2002,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2002,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,3,F
+2002,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,11,F
+2002,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,17,F
+2002,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,8,F
+2002,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,11,F
+2003,,,,GST on production,Dollars,Millions,National Accounts,8832,F
+2003,,,,Import duties,Dollars,Millions,National Accounts,742,F
+2003,,,,Income tax received,Dollars,Millions,National Accounts,25725,F
+2003,,,,Other current taxes,Dollars,Millions,National Accounts,518,F
+2003,,,,Social security contributions,Dollars,Millions,National Accounts,1490,F
+2003,,,,Taxes on production,Dollars,Millions,National Accounts,7360,R
+2003,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,44667,R
+2003,,,Energy,,Dollars,Millions,Environmental Accounts,997,F
+2003,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2003,,,Resources,,Dollars,Millions,Environmental Accounts,113,F
+2003,,,Transport,,Dollars,Millions,Environmental Accounts,1208,F
+2003,,Total,Total,,Dollars,Millions,Environmental Accounts,2318,F
+2003,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,9,F
+2003,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,12,F
+2003,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,4,R
+2003,BB1,Mining,,,Dollars,Millions,Environmental Accounts,95,F
+2003,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,62,F
+2003,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2003,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,5,F
+2003,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2003,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,942,F
+2003,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,18,F
+2003,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,7,F
+2003,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,F
+2003,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,F
+2003,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,29,F
+2003,EE1,Construction,,,Dollars,Millions,Environmental Accounts,109,F
+2003,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,46,F
+2003,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,36,R
+2003,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,20,F
+2003,HHD,Households,,,Dollars,Millions,Environmental Accounts,399,F
+2003,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,340,F
+2003,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,6,F
+2003,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,10,F
+2003,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,78,F
+2003,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2003,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,13,F
+2003,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,7,R
+2003,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2003,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2003,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,R
+2003,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,12,F
+2003,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,19,F
+2003,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,8,F
+2003,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,11,F
+2004,,,,GST on production,Dollars,Millions,National Accounts,9551,F
+2004,,,,Import duties,Dollars,Millions,National Accounts,719,F
+2004,,,,Income tax received,Dollars,Millions,National Accounts,28024,F
+2004,,,,Other current taxes,Dollars,Millions,National Accounts,581,F
+2004,,,,Social security contributions,Dollars,Millions,National Accounts,1469,F
+2004,,,,Taxes on production,Dollars,Millions,National Accounts,7760,R
+2004,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,48104,R
+2004,,,Energy,,Dollars,Millions,Environmental Accounts,1125,F
+2004,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2004,,,Resources,,Dollars,Millions,Environmental Accounts,104,F
+2004,,,Transport,,Dollars,Millions,Environmental Accounts,1329,F
+2004,,Total,Total,,Dollars,Millions,Environmental Accounts,2558,F
+2004,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,12,F
+2004,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,16,F
+2004,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,10,F
+2004,BB1,Mining,,,Dollars,Millions,Environmental Accounts,66,F
+2004,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,72,F
+2004,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,F
+2004,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,7,F
+2004,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,F
+2004,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,986,F
+2004,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,19,F
+2004,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,8,F
+2004,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,12,F
+2004,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2004,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,37,F
+2004,EE1,Construction,,,Dollars,Millions,Environmental Accounts,120,F
+2004,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,53,F
+2004,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,47,F
+2004,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,27,F
+2004,HHD,Households,,,Dollars,Millions,Environmental Accounts,451,F
+2004,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,369,F
+2004,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,7,F
+2004,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,21,F
+2004,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,111,F
+2004,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2004,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,21,F
+2004,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,F
+2004,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2004,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2004,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,F
+2004,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,16,F
+2004,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,26,F
+2004,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,F
+2004,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,7,F
+2005,,,,GST on production,Dollars,Millions,National Accounts,10245,F
+2005,,,,Import duties,Dollars,Millions,National Accounts,870,F
+2005,,,,Income tax received,Dollars,Millions,National Accounts,30053,F
+2005,,,,Other current taxes,Dollars,Millions,National Accounts,627,F
+2005,,,,Social security contributions,Dollars,Millions,National Accounts,1501,F
+2005,,,,Taxes on production,Dollars,Millions,National Accounts,8178,R
+2005,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,51473,R
+2005,,,Energy,,Dollars,Millions,Environmental Accounts,1353,F
+2005,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2005,,,Resources,,Dollars,Millions,Environmental Accounts,110,F
+2005,,,Transport,,Dollars,Millions,Environmental Accounts,1393,F
+2005,,Total,Total,,Dollars,Millions,Environmental Accounts,2856,F
+2005,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,13,F
+2005,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,17,F
+2005,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,11,F
+2005,BB1,Mining,,,Dollars,Millions,Environmental Accounts,71,F
+2005,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,77,F
+2005,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,F
+2005,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,7,F
+2005,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,F
+2005,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,886,F
+2005,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,21,F
+2005,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,9,F
+2005,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,13,F
+2005,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2005,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,91,F
+2005,EE1,Construction,,,Dollars,Millions,Environmental Accounts,129,F
+2005,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,57,F
+2005,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,50,F
+2005,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,29,F
+2005,HHD,Households,,,Dollars,Millions,Environmental Accounts,462,F
+2005,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,396,F
+2005,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,8,F
+2005,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,24,F
+2005,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,119,F
+2005,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2005,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,23,F
+2005,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,F
+2005,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2005,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2005,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,F
+2005,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,17,F
+2005,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,28,F
+2005,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,F
+2005,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,264,F
+2006,,,,GST on production,Dollars,Millions,National Accounts,10788,F
+2006,,,,Import duties,Dollars,Millions,National Accounts,997,F
+2006,,,,Income tax received,Dollars,Millions,National Accounts,33974,F
+2006,,,,Other current taxes,Dollars,Millions,National Accounts,643,F
+2006,,,,Social security contributions,Dollars,Millions,National Accounts,1608,F
+2006,,,,Taxes on production,Dollars,Millions,National Accounts,8684,R
+2006,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,56694,R
+2006,,,Energy,,Dollars,Millions,Environmental Accounts,1601,F
+2006,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2006,,,Resources,,Dollars,Millions,Environmental Accounts,105,F
+2006,,,Transport,,Dollars,Millions,Environmental Accounts,1433,F
+2006,,Total,Total,,Dollars,Millions,Environmental Accounts,3139,F
+2006,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,14,F
+2006,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,18,F
+2006,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,12,F
+2006,BB1,Mining,,,Dollars,Millions,Environmental Accounts,71,F
+2006,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,80,F
+2006,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,F
+2006,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,8,F
+2006,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,F
+2006,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,932,F
+2006,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,21,F
+2006,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,9,F
+2006,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,13,F
+2006,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2006,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,124,F
+2006,EE1,Construction,,,Dollars,Millions,Environmental Accounts,133,F
+2006,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,59,F
+2006,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,52,F
+2006,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,F
+2006,HHD,Households,,,Dollars,Millions,Environmental Accounts,470,F
+2006,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,410,F
+2006,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,8,F
+2006,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,24,F
+2006,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,124,F
+2006,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2006,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,23,F
+2006,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,F
+2006,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2006,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2006,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,F
+2006,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,18,F
+2006,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,29,F
+2006,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,11,F
+2006,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,421,F
+2007,,,,GST on production,Dollars,Millions,National Accounts,11561,F
+2007,,,,Import duties,Dollars,Millions,National Accounts,1668,F
+2007,,,,Income tax received,Dollars,Millions,National Accounts,36699,F
+2007,,,,Other current taxes,Dollars,Millions,National Accounts,660,F
+2007,,,,Social security contributions,Dollars,Millions,National Accounts,1892,F
+2007,,,,Taxes on production,Dollars,Millions,National Accounts,8527,R
+2007,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,61007,R
+2007,,,Energy,,Dollars,Millions,Environmental Accounts,1651,F
+2007,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2007,,,Resources,,Dollars,Millions,Environmental Accounts,95,F
+2007,,,Transport,,Dollars,Millions,Environmental Accounts,1471,F
+2007,,Total,Total,,Dollars,Millions,Environmental Accounts,3217,F
+2007,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,14,F
+2007,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,18,F
+2007,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,11,F
+2007,BB1,Mining,,,Dollars,Millions,Environmental Accounts,62,F
+2007,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,83,F
+2007,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,F
+2007,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,8,F
+2007,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,F
+2007,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,871,F
+2007,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,23,F
+2007,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,9,F
+2007,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,13,F
+2007,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2007,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,113,F
+2007,EE1,Construction,,,Dollars,Millions,Environmental Accounts,142,F
+2007,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,60,F
+2007,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,52,F
+2007,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,F
+2007,HHD,Households,,,Dollars,Millions,Environmental Accounts,468,F
+2007,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,439,F
+2007,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,8,F
+2007,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,24,F
+2007,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,126,F
+2007,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2007,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,23,F
+2007,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,F
+2007,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2007,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2007,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,F
+2007,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,18,F
+2007,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,29,F
+2007,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,F
+2007,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,539,F
+2008,,,,GST on production,Dollars,Millions,National Accounts,12229,F
+2008,,,,Import duties,Dollars,Millions,National Accounts,1901,F
+2008,,,,Income tax received,Dollars,Millions,National Accounts,39574,F
+2008,,,,Other current taxes,Dollars,Millions,National Accounts,689,F
+2008,,,,Social security contributions,Dollars,Millions,National Accounts,2133,F
+2008,,,,Taxes on production,Dollars,Millions,National Accounts,8746,R
+2008,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,65273,R
+2008,,,Energy,,Dollars,Millions,Environmental Accounts,1671,F
+2008,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2008,,,Resources,,Dollars,Millions,Environmental Accounts,82,F
+2008,,,Transport,,Dollars,Millions,Environmental Accounts,1568,F
+2008,,Total,Total,,Dollars,Millions,Environmental Accounts,3322,F
+2008,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,17,F
+2008,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,10,F
+2008,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,13,F
+2008,BB1,Mining,,,Dollars,Millions,Environmental Accounts,49,F
+2008,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,85,F
+2008,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2008,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,11,F
+2008,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2008,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,832,F
+2008,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,25,F
+2008,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,10,F
+2008,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,12,F
+2008,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,6,F
+2008,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,119,F
+2008,EE1,Construction,,,Dollars,Millions,Environmental Accounts,160,F
+2008,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,66,F
+2008,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,56,F
+2008,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,F
+2008,HHD,Households,,,Dollars,Millions,Environmental Accounts,483,F
+2008,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,479,F
+2008,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,11,F
+2008,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,28,F
+2008,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,138,F
+2008,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2008,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,36,F
+2008,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,13,F
+2008,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2008,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2008,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,5,F
+2008,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,18,F
+2008,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,34,F
+2008,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,14,F
+2008,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,555,F
+2009,,,,GST on production,Dollars,Millions,National Accounts,12225,F
+2009,,,,Import duties,Dollars,Millions,National Accounts,1850,F
+2009,,,,Income tax received,Dollars,Millions,National Accounts,38617,F
+2009,,,,Other current taxes,Dollars,Millions,National Accounts,695,F
+2009,,,,Social security contributions,Dollars,Millions,National Accounts,2129,F
+2009,,,,Taxes on production,Dollars,Millions,National Accounts,9233,R
+2009,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,64749,R
+2009,,,Energy,,Dollars,Millions,Environmental Accounts,1731,F
+2009,,,Pollution,,Dollars,Millions,Environmental Accounts,0,F
+2009,,,Resources,,Dollars,Millions,Environmental Accounts,74,F
+2009,,,Transport,,Dollars,Millions,Environmental Accounts,1640,F
+2009,,Total,Total,,Dollars,Millions,Environmental Accounts,3445,F
+2009,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,26,F
+2009,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,6,F
+2009,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,5,F
+2009,BB1,Mining,,,Dollars,Millions,Environmental Accounts,56,F
+2009,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,86,F
+2009,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2009,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,9,F
+2009,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2009,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,877,F
+2009,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,27,F
+2009,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,13,F
+2009,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,F
+2009,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2009,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,122,F
+2009,EE1,Construction,,,Dollars,Millions,Environmental Accounts,163,F
+2009,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,73,F
+2009,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,45,F
+2009,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,26,F
+2009,HHD,Households,,,Dollars,Millions,Environmental Accounts,499,F
+2009,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,531,F
+2009,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,10,F
+2009,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,31,F
+2009,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,143,F
+2009,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2009,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,36,F
+2009,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,24,F
+2009,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2009,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2009,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,F
+2009,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,17,F
+2009,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,62,F
+2009,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,15,F
+2009,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,520,F
+2010,,,,GST on production,Dollars,Millions,National Accounts,12372,F
+2010,,,,Import duties,Dollars,Millions,National Accounts,1859,F
+2010,,,,Income tax received,Dollars,Millions,National Accounts,33466,F
+2010,,,,Other current taxes,Dollars,Millions,National Accounts,771,F
+2010,,,,Social security contributions,Dollars,Millions,National Accounts,2387,F
+2010,,,,Taxes on production,Dollars,Millions,National Accounts,9414,R
+2010,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,60269,R
+2010,,,Energy,,Dollars,Millions,Environmental Accounts,1800,F
+2010,,,Pollution,,Dollars,Millions,Environmental Accounts,18,F
+2010,,,Resources,,Dollars,Millions,Environmental Accounts,69,F
+2010,,,Transport,,Dollars,Millions,Environmental Accounts,1758,F
+2010,,Total,Total,,Dollars,Millions,Environmental Accounts,3645,F
+2010,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,23,F
+2010,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,F
+2010,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,4,F
+2010,BB1,Mining,,,Dollars,Millions,Environmental Accounts,33,F
+2010,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,89,F
+2010,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2010,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,10,F
+2010,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2010,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,824,F
+2010,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,28,F
+2010,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,15,F
+2010,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,F
+2010,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,4,F
+2010,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,156,F
+2010,EE1,Construction,,,Dollars,Millions,Environmental Accounts,169,F
+2010,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,75,F
+2010,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,62,F
+2010,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,29,F
+2010,HHD,Households,,,Dollars,Millions,Environmental Accounts,565,F
+2010,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,555,F
+2010,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,7,F
+2010,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,29,F
+2010,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,160,F
+2010,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2010,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,31,F
+2010,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,F
+2010,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2010,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2010,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,F
+2010,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,23,F
+2010,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,87,F
+2010,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,15,F
+2010,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,616,F
+2011,,,,GST on production,Dollars,Millions,National Accounts,13985,F
+2011,,,,Import duties,Dollars,Millions,National Accounts,2008,F
+2011,,,,Income tax received,Dollars,Millions,National Accounts,33747,F
+2011,,,,Other current taxes,Dollars,Millions,National Accounts,840,F
+2011,,,,Social security contributions,Dollars,Millions,National Accounts,2745,F
+2011,,,,Taxes on production,Dollars,Millions,National Accounts,10044,R
+2011,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,63369,R
+2011,,,Energy,,Dollars,Millions,Environmental Accounts,1884,F
+2011,,,Pollution,,Dollars,Millions,Environmental Accounts,25,F
+2011,,,Resources,,Dollars,Millions,Environmental Accounts,73,F
+2011,,,Transport,,Dollars,Millions,Environmental Accounts,1994,F
+2011,,Total,Total,,Dollars,Millions,Environmental Accounts,3975,F
+2011,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,30,F
+2011,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,F
+2011,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,6,F
+2011,BB1,Mining,,,Dollars,Millions,Environmental Accounts,57,F
+2011,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,102,F
+2011,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,F
+2011,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,9,F
+2011,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2011,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,873,F
+2011,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,30,F
+2011,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,14,F
+2011,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,11,F
+2011,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2011,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,166,F
+2011,EE1,Construction,,,Dollars,Millions,Environmental Accounts,184,F
+2011,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,93,F
+2011,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,54,F
+2011,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,F
+2011,HHD,Households,,,Dollars,Millions,Environmental Accounts,662,F
+2011,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,628,F
+2011,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,6,F
+2011,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,39,F
+2011,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,160,F
+2011,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2011,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,34,F
+2011,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,12,F
+2011,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2011,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,F
+2011,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,5,F
+2011,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,19,F
+2011,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,114,F
+2011,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,15,F
+2011,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,608,F
+2012,,,,GST on production,Dollars,Millions,National Accounts,15944,F
+2012,,,,Import duties,Dollars,Millions,National Accounts,1952,F
+2012,,,,Income tax received,Dollars,Millions,National Accounts,33763,F
+2012,,,,Other current taxes,Dollars,Millions,National Accounts,914,F
+2012,,,,Social security contributions,Dollars,Millions,National Accounts,2757,F
+2012,,,,Taxes on production,Dollars,Millions,National Accounts,10470,R
+2012,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,65800,R
+2012,,,Energy,,Dollars,Millions,Environmental Accounts,1889,F
+2012,,,Pollution,,Dollars,Millions,Environmental Accounts,25,F
+2012,,,Resources,,Dollars,Millions,Environmental Accounts,60,F
+2012,,,Transport,,Dollars,Millions,Environmental Accounts,2108,F
+2012,,Total,Total,,Dollars,Millions,Environmental Accounts,4082,F
+2012,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,54,F
+2012,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,F
+2012,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,5,F
+2012,BB1,Mining,,,Dollars,Millions,Environmental Accounts,35,F
+2012,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,103,F
+2012,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2012,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,10,F
+2012,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2012,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,919,R
+2012,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,31,F
+2012,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,7,F
+2012,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,8,F
+2012,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,F
+2012,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,133,F
+2012,EE1,Construction,,,Dollars,Millions,Environmental Accounts,194,F
+2012,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,102,F
+2012,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,54,F
+2012,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,15,F
+2012,HHD,Households,,,Dollars,Millions,Environmental Accounts,712,F
+2012,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,642,R
+2012,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,10,F
+2012,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,29,F
+2012,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,206,F
+2012,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2012,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,35,F
+2012,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,F
+2012,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,1,F
+2012,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,F
+2012,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,7,F
+2012,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,22,F
+2012,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,101,F
+2012,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,9,F
+2012,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,612,F
+2013,,,,GST on production,Dollars,Millions,National Accounts,16408,F
+2013,,,,Import duties,Dollars,Millions,National Accounts,2074,F
+2013,,,,Income tax received,Dollars,Millions,National Accounts,36762,F
+2013,,,,Other current taxes,Dollars,Millions,National Accounts,910,F
+2013,,,,Social security contributions,Dollars,Millions,National Accounts,2483,F
+2013,,,,Taxes on production,Dollars,Millions,National Accounts,10998,R
+2013,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,69635,R
+2013,,,Energy,,Dollars,Millions,Environmental Accounts,1932,F
+2013,,,Pollution,,Dollars,Millions,Environmental Accounts,27,F
+2013,,,Resources,,Dollars,Millions,Environmental Accounts,69,F
+2013,,,Transport,,Dollars,Millions,Environmental Accounts,2135,F
+2013,,Total,Total,,Dollars,Millions,Environmental Accounts,4163,F
+2013,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,14,F
+2013,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,F
+2013,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,F
+2013,BB1,Mining,,,Dollars,Millions,Environmental Accounts,52,F
+2013,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,102,F
+2013,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2013,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,11,F
+2013,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2013,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,922,F
+2013,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,32,F
+2013,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,5,F
+2013,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,9,F
+2013,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,F
+2013,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,165,F
+2013,EE1,Construction,,,Dollars,Millions,Environmental Accounts,203,F
+2013,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,93,F
+2013,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,67,F
+2013,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,17,F
+2013,HHD,Households,,,Dollars,Millions,Environmental Accounts,720,F
+2013,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,665,F
+2013,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,9,F
+2013,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,32,F
+2013,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,191,F
+2013,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2013,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,29,F
+2013,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,13,F
+2013,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2013,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,F
+2013,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,5,F
+2013,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,25,F
+2013,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,113,F
+2013,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,9,F
+2013,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,641,F
+2014,,,,GST on production,Dollars,Millions,National Accounts,17117,F
+2014,,,,Import duties,Dollars,Millions,National Accounts,2175,F
+2014,,,,Income tax received,Dollars,Millions,National Accounts,39501,F
+2014,,,,Other current taxes,Dollars,Millions,National Accounts,925,F
+2014,,,,Social security contributions,Dollars,Millions,National Accounts,2617,F
+2014,,,,Taxes on production,Dollars,Millions,National Accounts,11690,R
+2014,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,74026,R
+2014,,,Energy,,Dollars,Millions,Environmental Accounts,2037,F
+2014,,,Pollution,,Dollars,Millions,Environmental Accounts,25,F
+2014,,,Resources,,Dollars,Millions,Environmental Accounts,75,F
+2014,,,Transport,,Dollars,Millions,Environmental Accounts,2282,F
+2014,,Total,Total,,Dollars,Millions,Environmental Accounts,4419,F
+2014,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,21,F
+2014,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,F
+2014,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,F
+2014,BB1,Mining,,,Dollars,Millions,Environmental Accounts,52,F
+2014,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,120,F
+2014,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,F
+2014,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,11,F
+2014,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2014,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,900,F
+2014,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,35,F
+2014,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,5,F
+2014,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,F
+2014,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,F
+2014,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,144,F
+2014,EE1,Construction,,,Dollars,Millions,Environmental Accounts,218,F
+2014,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,94,F
+2014,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,67,F
+2014,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,18,F
+2014,HHD,Households,,,Dollars,Millions,Environmental Accounts,741,F
+2014,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,729,F
+2014,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,12,F
+2014,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,28,F
+2014,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,217,F
+2014,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2014,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,32,F
+2014,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,F
+2014,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2014,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,4,F
+2014,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,F
+2014,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,31,F
+2014,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,115,F
+2014,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,F
+2014,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,768,F
+2015,,,,GST on production,Dollars,Millions,National Accounts,17989,F
+2015,,,,Import duties,Dollars,Millions,National Accounts,2280,F
+2015,,,,Income tax received,Dollars,Millions,National Accounts,41873,F
+2015,,,,Other current taxes,Dollars,Millions,National Accounts,953,F
+2015,,,,Social security contributions,Dollars,Millions,National Accounts,2418,F
+2015,,,,Taxes on production,Dollars,Millions,National Accounts,12234,R
+2015,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,77747,R
+2015,,,Energy,,Dollars,Millions,Environmental Accounts,2089,F
+2015,,,Pollution,,Dollars,Millions,Environmental Accounts,30,F
+2015,,,Resources,,Dollars,Millions,Environmental Accounts,69,F
+2015,,,Transport,,Dollars,Millions,Environmental Accounts,2322,F
+2015,,Total,Total,,Dollars,Millions,Environmental Accounts,4510,F
+2015,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,17,F
+2015,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,F
+2015,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,F
+2015,BB1,Mining,,,Dollars,Millions,Environmental Accounts,60,F
+2015,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,129,F
+2015,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,F
+2015,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,12,F
+2015,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,F
+2015,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,1026,F
+2015,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,38,F
+2015,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,7,F
+2015,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,9,F
+2015,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,F
+2015,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,182,F
+2015,EE1,Construction,,,Dollars,Millions,Environmental Accounts,236,F
+2015,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,102,F
+2015,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,71,F
+2015,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,16,F
+2015,HHD,Households,,,Dollars,Millions,Environmental Accounts,696,F
+2015,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,782,F
+2015,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,12,F
+2015,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,26,F
+2015,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,158,F
+2015,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2015,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,37,F
+2015,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,F
+2015,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2015,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,F
+2015,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,F
+2015,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,31,F
+2015,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,117,F
+2015,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,9,F
+2015,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,697,F
+2016,,,,GST on production,Dollars,Millions,National Accounts,19194,F
+2016,,,,Import duties,Dollars,Millions,National Accounts,2382,F
+2016,,,,Income tax received,Dollars,Millions,National Accounts,42639,F
+2016,,,,Other current taxes,Dollars,Millions,National Accounts,963,F
+2016,,,,Social security contributions,Dollars,Millions,National Accounts,2063,F
+2016,,,,Taxes on production,Dollars,Millions,National Accounts,12906,R
+2016,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,80147,R
+2016,,,Energy,,Dollars,Millions,Environmental Accounts,2234,F
+2016,,,Pollution,,Dollars,Millions,Environmental Accounts,33,F
+2016,,,Resources,,Dollars,Millions,Environmental Accounts,60,F
+2016,,,Transport,,Dollars,Millions,Environmental Accounts,2313,F
+2016,,Total,Total,,Dollars,Millions,Environmental Accounts,4639,F
+2016,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,15,F
+2016,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,2,F
+2016,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,F
+2016,BB1,Mining,,,Dollars,Millions,Environmental Accounts,51,F
+2016,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,123,F
+2016,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,F
+2016,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,13,F
+2016,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,F
+2016,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,1227,F
+2016,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,39,F
+2016,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,8,F
+2016,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,11,F
+2016,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,F
+2016,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,172,F
+2016,EE1,Construction,,,Dollars,Millions,Environmental Accounts,255,F
+2016,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,108,F
+2016,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,63,F
+2016,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,18,F
+2016,HHD,Households,,,Dollars,Millions,Environmental Accounts,641,F
+2016,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,816,F
+2016,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,10,F
+2016,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,23,F
+2016,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,133,F
+2016,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2016,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,36,F
+2016,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,16,F
+2016,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2016,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,F
+2016,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,F
+2016,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,33,F
+2016,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,94,F
+2016,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,F
+2016,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,699,F
+2017,,,,GST on production,Dollars,Millions,National Accounts,20910,R
+2017,,,,Import duties,Dollars,Millions,National Accounts,2650,F
+2017,,,,Income tax received,Dollars,Millions,National Accounts,47826,F
+2017,,,,Other current taxes,Dollars,Millions,National Accounts,859,F
+2017,,,,Social security contributions,Dollars,Millions,National Accounts,2030,F
+2017,,,,Taxes on production,Dollars,Millions,National Accounts,13378,R
+2017,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,87653,R
+2017,,,Energy,,Dollars,Millions,Environmental Accounts,2285,F
+2017,,,Pollution,,Dollars,Millions,Environmental Accounts,34,F
+2017,,,Resources,,Dollars,Millions,Environmental Accounts,60,F
+2017,,,Transport,,Dollars,Millions,Environmental Accounts,2413,F
+2017,,Total,Total,,Dollars,Millions,Environmental Accounts,4792,F
+2017,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,15,F
+2017,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,2,F
+2017,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,F
+2017,BB1,Mining,,,Dollars,Millions,Environmental Accounts,58,F
+2017,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,133,F
+2017,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,F
+2017,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,10,F
+2017,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,F
+2017,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,1206,F
+2017,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,41,F
+2017,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,10,F
+2017,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,9,F
+2017,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,F
+2017,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,181,F
+2017,EE1,Construction,,,Dollars,Millions,Environmental Accounts,273,F
+2017,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,112,F
+2017,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,63,F
+2017,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,18,F
+2017,HHD,Households,,,Dollars,Millions,Environmental Accounts,641,F
+2017,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,849,F
+2017,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,11,F
+2017,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,23,F
+2017,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,134,F
+2017,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2017,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,40,F
+2017,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,21,F
+2017,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,F
+2017,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,5,F
+2017,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,F
+2017,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,34,F
+2017,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,95,F
+2017,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,F
+2017,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,773,F
+2018,,,,GST on production,Dollars,Millions,National Accounts,22056,R
+2018,,,,Import duties,Dollars,Millions,National Accounts,2726,R
+2018,,,,Income tax received,Dollars,Millions,National Accounts,51106,R
+2018,,,,Other current taxes,Dollars,Millions,National Accounts,774,R
+2018,,,,Social security contributions,Dollars,Millions,National Accounts,1948,R
+2018,,,,Taxes on production,Dollars,Millions,National Accounts,14136,R
+2018,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,92746,R
+2018,,,Energy,,Dollars,Millions,Environmental Accounts,2287,R
+2018,,,Pollution,,Dollars,Millions,Environmental Accounts,35,R
+2018,,,Resources,,Dollars,Millions,Environmental Accounts,59,R
+2018,,,Transport,,Dollars,Millions,Environmental Accounts,2501,R
+2018,,Total,Total,,Dollars,Millions,Environmental Accounts,4883,R
+2018,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,15,R
+2018,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,2,R
+2018,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,R
+2018,BB1,Mining,,,Dollars,Millions,Environmental Accounts,56,R
+2018,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,140,R
+2018,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2018,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,10,R
+2018,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,R
+2018,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,1182,R
+2018,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,44,R
+2018,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,11,R
+2018,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,9,R
+2018,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,R
+2018,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,176,R
+2018,EE1,Construction,,,Dollars,Millions,Environmental Accounts,288,R
+2018,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,117,R
+2018,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,63,R
+2018,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,18,R
+2018,HHD,Households,,,Dollars,Millions,Environmental Accounts,638,R
+2018,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,899,R
+2018,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,10,R
+2018,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,24,R
+2018,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,135,R
+2018,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,F
+2018,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,41,R
+2018,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,22,R
+2018,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,R
+2018,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,6,R
+2018,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,R
+2018,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,34,R
+2018,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,94,R
+2018,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,11,R
+2018,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,816,R
